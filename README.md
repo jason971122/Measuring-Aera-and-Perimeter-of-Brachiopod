@@ -10,7 +10,7 @@ The data you should preparing is only a **fossil picture** and **pixel scale**, 
 
 1. Try to take photos at a vertical Angle with a pure-color background(recommend black);
 2. The fossils are arranged as neatly as possible;
-3. Keep some distance between the fossils;
+3. Keep some distance between the fossils.
 
 
 
