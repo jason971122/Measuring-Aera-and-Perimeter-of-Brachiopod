@@ -2,8 +2,7 @@
 
 
 
-Measuring-Aera-and-Perimeter-of-Brachiopod is an open source to calculate the shell length and width, also including Area and Perimeter of brachiopod
-
+Measuring-Aera-and-Perimeter-of-Brachiopod is an open source to calculate the shell length and width of brachiopod or any other objects, also including Area and Perimeter.
 
 
 The data you should preparing is only a **fossil picture** and **pixel scale**, but the picture quanlity more higher is better, in addition, when you take photo, there are 3 things you should attention:
