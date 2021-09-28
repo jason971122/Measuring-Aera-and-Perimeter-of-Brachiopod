@@ -6,7 +6,7 @@ Measuring-Aera-and-Perimeter-of-Brachiopod is an open source to calculate the sh
 
 
 
-The data you should preparing is only a **fossil picture**and **pixel scale**, but the picture quanlity more higher is better, in addition, when you take photo, there are 3 things you should attention:
+The data you should preparing is only a **fossil picture** and **pixel scale**, but the picture quanlity more higher is better, in addition, when you take photo, there are 3 things you should attention:
 
 
 1. Try to take photos at a vertical Angle with a pure-color background(recommend black);
