@@ -22,4 +22,4 @@ If you have any question, you can contact the author by e-mail: **qwang@nigpas.a
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-**IF THIS REPO HELPS YOU, PLEASE DONT FORGET TO CITE THIS REPO: https://github.com/jason971122/Measuring-Aera-and-Perimeter-of-Brachiopod**
+**IF THIS REPO HELPS YOU, PLEASE DO NOT FORGET TO CITE THIS REPO: https://github.com/jason971122/Measuring-Aera-and-Perimeter-of-Brachiopod**
