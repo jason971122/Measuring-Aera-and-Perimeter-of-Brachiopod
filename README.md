@@ -50,4 +50,5 @@ If you have any question, you can contact the author by e-mail: **qwang@nigpas.a
 
 
 
-**如果这个项目对你有帮助，请不要忘记引用此项目:https://github.com/jason971122/Measuring-Aera-and-Perimeter-of-Brachiopod**
+**如果这个项目对你有帮助，请不要忘记引用此项目:
+https://github.com/jason971122/Measuring-Aera-and-Perimeter-of-Brachiopod**
