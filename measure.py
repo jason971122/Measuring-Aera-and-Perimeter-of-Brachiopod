@@ -150,7 +150,7 @@ df_S_D = pd.concat([df_aera,df_perimeter],axis=1)
 df_S_D = df_S_D.round(decimals=2)
 df_S_D.to_csv('Aera_Perimeter_7mm.csv')
 # 图像显示
-# cv.imshow("contours_analysis", src)
+ cv.imshow("contours_analysis", src)
 # cv.imwrite("./results/results_85_mm.png", src)
 # cv.waitKey(0)
 # cv.destroyAllWindows()
